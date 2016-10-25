@@ -1,0 +1,10 @@
+Lesson 1: Introduction, variables, primatives and key movement
+Lesson 2: background and module and timer
+Lesson 3: structure and player
+Lesson 4: water, quick animation and 1D array
+Lesson 5: list and removal
+Lesson 6: fire, preloading pictures and 2d array
+Lesson 7: touching
+Lesson 8: score and states
+Lesson 9: makeup time
+Lesson 10: bonuses/endless fire
